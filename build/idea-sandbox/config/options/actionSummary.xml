@@ -1,0 +1,105 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$SelectAll">
+        <ActionSummary times="3" last="1610462500644" />
+      </entry>
+      <entry key="$Undo">
+        <ActionSummary times="15" last="1610478276115" />
+      </entry>
+      <entry key="Android.SyncProject">
+        <ActionSummary times="4" last="1608559320764" />
+      </entry>
+      <entry key="CleanPlugin.ID">
+        <ActionSummary times="20" last="1609331078769" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="209" last="1610478395799" />
+      </entry>
+      <entry key="EditorChooseLookupItem">
+        <ActionSummary times="1" last="1608584963029" />
+      </entry>
+      <entry key="EditorCopy">
+        <ActionSummary times="3" last="1608584925261" />
+      </entry>
+      <entry key="EditorCut">
+        <ActionSummary times="5" last="1608717389352" />
+      </entry>
+      <entry key="EditorEnter">
+        <ActionSummary times="6" last="1609327822992" />
+      </entry>
+      <entry key="EditorPaste">
+        <ActionSummary times="31" last="1610462501459" />
+      </entry>
+      <entry key="EditorStartNewLine">
+        <ActionSummary times="1" last="1609329726349" />
+      </entry>
+      <entry key="ExtractMethod">
+        <ActionSummary times="4" last="1609329569474" />
+      </entry>
+      <entry key="FindUsages">
+        <ActionSummary times="1" last="1608636963004" />
+      </entry>
+      <entry key="Generate">
+        <ActionSummary times="65" last="1610480755264" />
+      </entry>
+      <entry key="MinimizeCurrentWindow">
+        <ActionSummary times="1" last="1609329564279" />
+      </entry>
+      <entry key="NextWindow">
+        <ActionSummary times="9" last="1610457975353" />
+      </entry>
+      <entry key="SearchEverywhere">
+        <ActionSummary times="8" last="1610451278355" />
+      </entry>
+      <entry key="ShowIntentionActions">
+        <ActionSummary times="9" last="1609329763315" />
+      </entry>
+      <entry key="WelcomeScreen.CreateNewProject">
+        <ActionSummary times="2" last="1609329060368" />
+      </entry>
+      <entry key="WelcomeScreen.OpenProject">
+        <ActionSummary times="1" last="1608557037734" />
+      </entry>
+      <entry key="WelcomeScreen.Plugins">
+        <ActionSummary times="4" last="1610451282766" />
+      </entry>
+      <entry key="action.AccessorAction">
+        <ActionSummary times="30" last="1609329702220" />
+      </entry>
+      <entry key="action.AccessorAction_Onuserlogin">
+        <ActionSummary times="1" last="1608637402685" />
+      </entry>
+      <entry key="action.AccessorAction_Userproperties">
+        <ActionSummary times="2" last="1608717378721" />
+      </entry>
+      <entry key="action.AccessorAction_intialize">
+        <ActionSummary times="4" last="1609329683222" />
+      </entry>
+      <entry key="action.AccessorAction_nativedisplay">
+        <ActionSummary times="6" last="1609329755699" />
+      </entry>
+      <entry key="action.SearchAction_FCM">
+        <ActionSummary times="15" last="1610480757350" />
+      </entry>
+      <entry key="com.android.tools.idea.gradle.project.sync.setup.post.MemorySettingsPostSyncChecker$2">
+        <ActionSummary times="1" last="1608637457326" />
+      </entry>
+      <entry key="com.intellij.ide.ReopenProjectAction">
+        <ActionSummary times="4" last="1610480727492" />
+      </entry>
+      <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+        <ActionSummary times="2" last="1609331104718" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+        <ActionSummary times="4" last="1608637000114" />
+      </entry>
+      <entry key="com.intellij.ui.ScrollingUtil$6">
+        <ActionSummary times="2" last="1609331104257" />
+      </entry>
+      <entry key="com.intellij.ui.components.BasicOptionButtonUI$ActionDelegate">
+        <ActionSummary times="2" last="1610451292252" />
+      </entry>
+    </data>
+  </component>
+</application>

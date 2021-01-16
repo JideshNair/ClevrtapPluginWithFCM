@@ -1,0 +1,90 @@
+AWT-EventQueue-0, TID: 16 [200ms]
+
+CLang Server Accessor, TID: 64 [200ms]
+
+Reference Handler, TID: 2 [200ms]
+
+Finalizer, TID: 3 [200ms]
+
+com.google.common.base.internal.Finalizer, TID: 68 [200ms]
+
+Signal Dispatcher, TID: 4 [200ms]
+
+Layoutlib Render Thread, TID: 72 [200ms]
+
+DestroyJavaVM, TID: 10 [200ms]
+
+Periodic tasks thread, TID: 11 [200ms]
+
+IndexInfrastructure Pool, TID: 12 [200ms]
+
+pool-4-thread-1, TID: 141 [200ms]
+
+ApplicationImpl pooled thread 2, TID: 13 [0ms]
+
+AppKit Thread, TID: 14 [200ms]
+
+AWT-Shutdown, TID: 15 [200ms]
+
+ApplicationImpl pooled thread 14, TID: 84 [0ms]
+
+ApplicationImpl pooled thread 15, TID: 85 [200ms]
+
+ApplicationImpl pooled thread 16, TID: 86 [0ms]
+
+process reaper, TID: 22 [200ms]
+
+EDT Performance Checker, TID: 87 [100ms]
+
+ApplicationImpl pooled thread 18, TID: 88 [0ms]
+
+Java2D Disposer, TID: 24 [200ms]
+
+ApplicationImpl pooled thread 19, TID: 89 [0ms]
+
+Java2D Queue Flusher, TID: 25 [200ms]
+
+ApplicationImpl pooled thread 20, TID: 90 [200ms]
+
+Netty Builtin Server 1, TID: 26 [200ms]
+
+Netty Builtin Server 2, TID: 27 [200ms]
+
+Netty Builtin Server 3, TID: 28 [200ms]
+
+ApplicationImpl pooled thread 21, TID: 95 [0ms]
+
+fsnotifier, TID: 31 [200ms]
+
+Alarm Pool, TID: 96 [200ms]
+
+BaseDataReader: error stream of fsnotifier, TID: 32 [200ms]
+
+ApplicationImpl pooled thread 23, TID: 97 [0ms]
+
+BaseDataReader: output stream of fsnotifier, TID: 33 [200ms]
+
+ApplicationImpl pooled thread 24, TID: 98 [0ms]
+
+ApplicationImpl pooled thread 25, TID: 99 [0ms]
+
+TimerQueue, TID: 35 [200ms]
+
+Timer-0, TID: 36 [200ms]
+
+Batik CleanerThread, TID: 110 [200ms]
+
+Keep-Alive-SocketCleaner, TID: 117 [200ms]
+
+Monitor, TID: 55 [200ms]
+
+JobScheduler FJ pool 2/3, TID: 122 [0ms]
+
+JdwpProxyConnection, TID: 60 [200ms]
+
+Device Client Monitor, TID: 61 [200ms]
+
+Device List Monitor, TID: 62 [200ms]
+
+ClangdRequestsPlanner, TID: 63 [200ms]
+

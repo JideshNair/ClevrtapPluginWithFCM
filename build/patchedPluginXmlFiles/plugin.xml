@@ -1,0 +1,34 @@
+<idea-plugin>
+  <id>CleverTap.CleverTap</id>
+  <name>CleverTap</name>
+  <vendor email="jjideshnair8@gmail.com">Clevertap</vendor>
+  <idea-version since-build="182.0"/>
+  <depends>com.intellij.modules.lang</depends>
+  <depends>org.jetbrains.kotlin</depends>
+  <version>0.3</version>
+  <extensions defaultExtensionNs="com.intellij"/>
+  <actions>
+    <action id="CleanPlugin.ID" class="action.SearchAction" text="Clevertap Integration" description="Configure Clevertap." icon="/icons/ct.jpg" use-shortcut-of="CleanPlugin.ID" keymap="$default">
+      <add-to-group group-id="NewGroup" anchor="after" relative-to-action="NewDir"/>
+      <keyboard-shortcut keymap="$default" first-keystroke="control alt e"/>
+    </action>
+    <action class="action.AccessorAction_nativedisplay" id="action.AccessorAction_nativedisplay" text="Clevertap Native Display" description="Add Clevertap nativedisplay">
+      <add-to-group group-id="GenerateGroup" anchor="first"/>
+    </action>
+    <action class="action.SearchAction_FCM" id="action.SearchAction_FCM" text="Add Push Notification with Clevertap" description="Add FCM and Clevertap">
+      <add-to-group group-id="GenerateGroup" anchor="first"/>
+    </action>
+    <action class="action.AccessorAction" id="action.AccessorAction" text="Clevertap Events" description="Add Clevertap Events/User Properties">
+      <add-to-group group-id="GenerateGroup" anchor="first"/>
+    </action>
+    <action class="action.AccessorAction_propfilePush" id="action.AccessorAction_Userproperties" text="Clevertap User Properties" description="Add Clevertap User Properties">
+      <add-to-group group-id="GenerateGroup" anchor="first"/>
+    </action>
+    <action class="action.AccessorAction_onuserlogin" id="action.AccessorAction_Onuserlogin" text="Clevertap OnuserLogin" description="Add Clevertap Onuserlogin">
+      <add-to-group group-id="GenerateGroup" anchor="first"/>
+    </action>
+    <action class="action.AccessorAction_intialize" id="action.AccessorAction_intialize" text="Clevertap Initialization" description="Intialize Clevertap">
+      <add-to-group group-id="GenerateGroup" anchor="first"/>
+    </action>
+  </actions>
+</idea-plugin>

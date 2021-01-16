@@ -1,0 +1,18 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-native-run-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="/Users/jidesh/AndroidStudioProjects/MyApplication/MyApplication.iml" timestamp="1608556461000" />
+    <file path="/Users/jidesh/AndroidStudioProjects/MyApplication/.idea/gradle.xml" timestamp="1608556461000" />
+    <file path="/Users/jidesh/AndroidStudioProjects/MyApplication/.idea/workspace.xml" timestamp="1608557005000" />
+    <file path="/Users/jidesh/AndroidStudioProjects/MyApplication/.idea/modules.xml" timestamp="1540461500000" />
+    <file path="/Users/jidesh/AndroidStudioProjects/MyApplication/.idea/misc.xml" timestamp="1540461500000" />
+    <file path="/Users/jidesh/AndroidStudioProjects/MyApplication/.idea/runConfigurations.xml" timestamp="1540461500000" />
+  </project-files>
+</conversion>

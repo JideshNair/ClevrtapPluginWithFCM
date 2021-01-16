@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>pluginIcon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="82.0415538%" y1="80.6580141%" x2="21.8064665%" y2="16.2996126%" id="linearGradient-1">
+            <stop stop-color="#26E4E3" offset="0%"></stop>
+            <stop stop-color="#9858BB" offset="54.5898438%"></stop>
+            <stop stop-color="#2965F1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="pluginIcon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="back" fill="url(#linearGradient-1)" x="2" y="2" width="30" height="30" rx="4"></rect>
+        <path d="M29,26.3333333 L29,7.66666667 C29,6.2 27.8,5 26.3333333,5 L7.66666667,5 C6.2,5 5,6.2 5,7.66666667 L5,26.3333333 C5,27.8 6.2,29 7.66666667,29 L26.3333333,29 C27.8,29 29,27.8 29,26.3333333 Z M21.5,15 L26.5,26 L7.66666667,26 L13,19 L17,23 L21.5,15 Z M11.7161204,8 C13.2161922,8 14.4322407,9.21604851 14.4322407,10.7161204 C14.4322407,12.2161922 13.2161922,13.4322407 11.7161204,13.4322407 C10.2160485,13.4322407 9,12.2161922 9,10.7161204 C9,9.21604851 10.2160485,8 11.7161204,8 Z" id="icon" fill-opacity="0.64" fill="#FFFFFF" fill-rule="nonzero"></path>
+        <g id="data" transform="translate(7.103881, 25.158615)">
+            <rect id="back" stroke="#FFFFFF" stroke-width="2" fill="#000000" x="5.89611904" y="1.76198308" width="26" height="12.0774531"></rect>
+            <text id="text" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="7.41487669" y="11.8413845">data</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

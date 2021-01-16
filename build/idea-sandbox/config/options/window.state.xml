@@ -1,0 +1,47 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1600.900" x="799" y="380" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1600.900" x="422" y="259" />
+    <location key="SettingsEditor.0.0.1600.900" x="294" y="76" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1600.900" x="538" y="181" />
+    <location key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog.0.0.1600.900" x="574" y="104" />
+    <location key="new project wizard.0.0.1600.900" x="368" y="50" />
+    <location key="IDE.errors.dialog.0.0.1600.900" x="361" y="127" />
+    <location key="FileChooserDialogImpl.0.0.1600.900" x="588" y="142" />
+    <location key="ProcessPopupWindow.0.0.1600.900" x="1173" y="708" />
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="720" y="300" />
+    <size key="IDE.errors.dialog.0.0.1600.900" width="878" height="632" />
+    <size key="ProcessPopupWindow.0.0.1600.900" width="400" height="108" />
+  </component>
+  <component name="WindowManager">
+    <frame x="0" y="25" width="1440" height="783" />
+    <layout>
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="507" y="151" key="FileChooserDialogImpl" timestamp="1608557053916">
+      <screen x="0" y="25" width="1440" height="831" />
+    </state>
+    <state x="507" y="151" key="FileChooserDialogImpl/0.25.1440.831" timestamp="1608557053916" />
+    <state x="1036" y="643" width="400" height="180" key="ProcessPopupWindow" timestamp="1608556929743">
+      <screen x="0" y="25" width="1440" height="831" />
+    </state>
+    <state x="1036" y="643" width="400" height="180" key="ProcessPopupWindow/0.25.1440.831" timestamp="1608556929743" />
+    <state x="719" y="392" key="WELCOME_SCREEN" timestamp="1610481224025">
+      <screen x="0" y="25" width="1440" height="831" />
+    </state>
+    <state x="719" y="392" key="WELCOME_SCREEN/0.25.1440.831" timestamp="1610481224025" />
+  </component>
+</application>

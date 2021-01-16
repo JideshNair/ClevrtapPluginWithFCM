@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="add" path="ActionManager" hit="Add Clevertap Events/User Properties" />
+    <option name="clevertap" path="ActionManager" hit="Add Clevertap Events/User Properties" />
+    <option name="events" path="ActionManager" hit="Add Clevertap Events/User Properties" />
+    <option name="properties" path="ActionManager" hit="Add Clevertap Events/User Properties" />
+    <option name="user" path="ActionManager" hit="Add Clevertap Events/User Properties" />
+    <option name="add" path="ActionManager" hit="Add Clevertap Onuserlogin" />
+    <option name="clevertap" path="ActionManager" hit="Add Clevertap Onuserlogin" />
+    <option name="onuserlogin" path="ActionManager" hit="Add Clevertap Onuserlogin" />
+    <option name="add" path="ActionManager" hit="Add Clevertap User Properties" />
+    <option name="clevertap" path="ActionManager" hit="Add Clevertap User Properties" />
+    <option name="properties" path="ActionManager" hit="Add Clevertap User Properties" />
+    <option name="user" path="ActionManager" hit="Add Clevertap User Properties" />
+    <option name="add" path="ActionManager" hit="Add Clevertap nativedisplay" />
+    <option name="clevertap" path="ActionManager" hit="Add Clevertap nativedisplay" />
+    <option name="nativedisplay" path="ActionManager" hit="Add Clevertap nativedisplay" />
+    <option name="add" path="ActionManager" hit="Add FCM and Clevertap" />
+    <option name="and" path="ActionManager" hit="Add FCM and Clevertap" />
+    <option name="clevertap" path="ActionManager" hit="Add FCM and Clevertap" />
+    <option name="fcm" path="ActionManager" hit="Add FCM and Clevertap" />
+    <option name="add" path="ActionManager" hit="Add Push Notification with Clevertap" />
+    <option name="clevertap" path="ActionManager" hit="Add Push Notification with Clevertap" />
+    <option name="notification" path="ActionManager" hit="Add Push Notification with Clevertap" />
+    <option name="push" path="ActionManager" hit="Add Push Notification with Clevertap" />
+    <option name="with" path="ActionManager" hit="Add Push Notification with Clevertap" />
+    <option name="clevertap" path="ActionManager" hit="Clevertap Events" />
+    <option name="events" path="ActionManager" hit="Clevertap Events" />
+    <option name="clevertap" path="ActionManager" hit="Clevertap Initialization" />
+    <option name="initialization" path="ActionManager" hit="Clevertap Initialization" />
+    <option name="clevertap" path="ActionManager" hit="Clevertap Integration" />
+    <option name="integration" path="ActionManager" hit="Clevertap Integration" />
+    <option name="clevertap" path="ActionManager" hit="Clevertap Native Display" />
+    <option name="display" path="ActionManager" hit="Clevertap Native Display" />
+    <option name="native" path="ActionManager" hit="Clevertap Native Display" />
+    <option name="clevertap" path="ActionManager" hit="Clevertap OnuserLogin" />
+    <option name="onuserlogin" path="ActionManager" hit="Clevertap OnuserLogin" />
+    <option name="clevertap" path="ActionManager" hit="Clevertap User Properties" />
+    <option name="properties" path="ActionManager" hit="Clevertap User Properties" />
+    <option name="user" path="ActionManager" hit="Clevertap User Properties" />
+    <option name="clevertap" path="ActionManager" hit="Configure Clevertap." />
+    <option name="configure" path="ActionManager" hit="Configure Clevertap." />
+    <option name="clevertap" path="ActionManager" hit="Intialize Clevertap" />
+    <option name="intialize" path="ActionManager" hit="Intialize Clevertap" />
+  </configurable>
+</options>
+
